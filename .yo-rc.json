@@ -1,0 +1,23 @@
+{
+  "generator-m": {
+    "answers": {
+      "appName": "Sunlife",
+      "appId": "com.josephlacerna.sunlife",
+      "bowerPackages": [
+        "angular-localForage#~1.2.2"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "plugins": [
+        "cordova-plugin-device",
+        "cordova-plugin-dialogs",
+        "cordova-plugin-inappbrowser",
+        "cordova-plugin-network-information",
+        "cordova-plugin-splashscreen"
+      ],
+      "appModule": "Sunlife"
+    }
+  }
+}
